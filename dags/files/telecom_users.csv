@@ -1,0 +1,101 @@
+id,customer_name,phone_number,plan_type,call_minutes,data_usage_gb,sms_count,region,signup_date
+1,Titi Wahyudin,+62 (400) 812 8309,Postpaid,673.87,44.65,282,Sumatera Utara,2024-03-08
+2,Sutan Prabawa Pradipta,(079) 570-4564,Postpaid,330.22,26.08,450,Bali,2023-08-16
+3,Tiara Uwais,087 765 3793,Postpaid,433.01,31.44,125,Sumatera Utara,2023-06-01
+4,Oni Maulana,+62 (086) 679-7233,Prepaid,325.13,40.92,315,Jawa Timur,2024-06-14
+5,Gilda Widodo,+62 (043) 232-2204,Prepaid,598.89,14.37,223,Jabodetabek,2023-08-30
+6,"Bahuwarna Hastuti, S.Farm",+62-278-365-0372,Postpaid,801.71,2.97,451,Jabodetabek,2022-10-05
+7,Dinda Tamba,081 587 1649,Postpaid,926.11,8.46,96,Sumatera Utara,2023-06-01
+8,"Shania Yolanda, S.Gz",(0013) 809 3404,Prepaid,851.27,20.29,463,Sulawesi Selatan,2022-12-11
+9,"drg. Maman Kurniawan, S.Psi",+62 (308) 590 9175,Postpaid,419.44,0.86,285,Bali,2024-03-18
+10,"Cut Gabriella Sihombing, M.M.",+62 (0385) 975-2506,Prepaid,651.74,49.25,139,Jawa Barat,2024-03-30
+11,Vicky Setiawan,+62 (0205) 119-6941,Prepaid,913.57,20.35,463,Sumatera Utara,2023-10-22
+12,Dr. Kasim Susanti,+62 (33) 639 9659,Prepaid,942.22,30.35,385,Jabodetabek,2024-05-08
+13,Dirja Usada,+62-859-823-3604,Prepaid,562.09,12.76,442,Bali,2023-04-11
+14,"Mahmud Saefullah, S.Gz",+62 (011) 007 3309,Postpaid,574.34,8.5,70,Sulawesi Selatan,2023-12-12
+15,"drg. Sabar Hutasoit, S.E.",+62-976-881-9431,Prepaid,935.43,3.41,243,Jabodetabek,2023-12-27
+16,Eluh Latupono,(0613) 344 9790,Postpaid,941.89,17.88,181,Jawa Timur,2024-07-01
+17,Baktianto Farida,+62 (89) 207-5655,Postpaid,869.03,29.34,411,Bali,2023-04-09
+18,"Bala Yolanda, S.I.Kom",088 774 0204,Prepaid,760.63,32.87,329,Jabodetabek,2022-12-26
+19,"dr. Safina Sihotang, S.Pt",+62 (0268) 138 7710,Prepaid,728.65,31.48,201,Jawa Barat,2025-03-16
+20,drg. Jessica Sitorus,(0441) 699 4099,Prepaid,170.27,41.24,461,Jawa Barat,2023-05-04
+21,KH. Galih Rahmawati,+62 (49) 202-6684,Postpaid,364.38,28.71,325,Jawa Timur,2024-06-18
+22,Drs. Shakila Siregar,+62 (75) 638 8871,Postpaid,755.66,2.29,101,Sulawesi Selatan,2023-10-30
+23,"Nadine Lailasari, S.Pt",0898822517,Postpaid,218.84,12.32,382,Jawa Timur,2024-03-10
+24,Tgk. Nova Laksita,+62 (194) 866 2797,Prepaid,896.17,44.31,260,Bali,2023-01-27
+25,Maida Hartati,+62 (27) 932 3560,Postpaid,52.89,48.54,251,Jawa Timur,2023-02-14
+26,Asmuni Waluyo,+62 (228) 437 9601,Prepaid,66.86,21.35,3,Jawa Timur,2022-10-18
+27,Dr. Nabila Kusumo,+62 (449) 401-5438,Postpaid,373.61,10.15,451,Jabodetabek,2023-12-10
+28,Zulfa Megantara,+62-053-053-2584,Postpaid,386.96,25.89,224,Sulawesi Selatan,2023-10-17
+29,R.A. Uchita Nasyidah,+62 (038) 815-0721,Prepaid,546.89,20.5,200,Sulawesi Selatan,2025-02-04
+30,Sutan Laswi Wijaya,+62 (14) 071 0021,Postpaid,259.92,17.13,439,Jawa Timur,2024-10-04
+31,"Bagas Mansur, S.Ked",(0504) 845-3969,Prepaid,566.09,27.68,489,Sumatera Utara,2022-09-16
+32,Waluyo Sudiati,(0841) 902-6942,Prepaid,719.41,15.29,130,Jawa Barat,2022-09-24
+33,Ir. Sari Wasita,+62-28-812-7645,Prepaid,689.5,29.67,476,Jabodetabek,2024-07-13
+34,Puspa Pratiwi,+62 (303) 913 1229,Postpaid,806.88,48.23,245,Jawa Timur,2024-05-14
+35,Septi Farida,+62 (0847) 568-5860,Postpaid,473.58,14.21,319,Jawa Timur,2023-03-16
+36,"Lanjar Palastri, M.Farm",+62 (710) 830 3474,Prepaid,780.21,37.88,324,Bali,2024-02-12
+37,"dr. Makara Anggraini, S.Farm",+62 (536) 104-6500,Prepaid,79.58,19.77,123,Sumatera Utara,2024-02-05
+38,"Kurnia Habibi, S.IP",+62-591-506-3420,Postpaid,691.54,27.86,330,Jabodetabek,2022-10-27
+39,Purwadi Mandala,(081) 977 3078,Prepaid,41.96,33.32,437,Bali,2024-01-02
+40,Najwa Melani,+62 (62) 258-0590,Postpaid,530.35,39.71,447,Bali,2024-06-01
+41,Jabal Prastuti,+62-876-793-3229,Prepaid,537.6,23.93,5,Jawa Timur,2023-09-29
+42,Kairav Permata,+62-0061-228-7600,Postpaid,70.58,30.89,204,Bali,2024-09-06
+43,Dt. Hasta Mandasari,+62 (08) 018-0184,Prepaid,391.06,45.1,389,Sulawesi Selatan,2025-01-04
+44,Bakiadi Dabukke,+62 (0193) 435 8266,Postpaid,879.73,44.69,152,Jabodetabek,2025-03-08
+45,Janet Prayoga,+62 (13) 651-6233,Postpaid,122.38,44.11,10,Jawa Barat,2024-11-30
+46,drg. Siska Prasetya,+62 (008) 876 2266,Postpaid,105.14,25.8,481,Bali,2022-11-10
+47,Kezia Sihotang,(0071) 933-7849,Prepaid,613.9,40.97,217,Sulawesi Selatan,2022-07-11
+48,Adiarja Anggraini,(0977) 373 3604,Postpaid,484.1,32.21,24,Jabodetabek,2023-10-22
+49,Ir. Jarwi Wastuti,(018) 096-3192,Postpaid,910.7,47.49,259,Sumatera Utara,2022-07-16
+50,Samiah Sihombing,+62 (095) 856 6016,Postpaid,291.56,41.18,450,Jabodetabek,2023-06-17
+51,"R. Karimah Natsir, S.Kom",+62 (052) 478-5483,Postpaid,299.03,14.85,172,Jabodetabek,2024-02-06
+52,Karna Gunarto,+62 (898) 647-9436,Postpaid,740.28,48.39,266,Jawa Timur,2023-12-15
+53,"Tgk. Eva Prayoga, S.Sos",(0651) 648-4918,Postpaid,647.13,45.68,441,Bali,2025-04-13
+54,"Drs. Maya Dongoran, S.E.",(011) 533-5237,Prepaid,227.55,17.82,346,Jawa Timur,2023-01-15
+55,Ghani Prasetya,082 476 9755,Postpaid,653.05,13.75,347,Bali,2024-02-21
+56,Lantar Zulaika,+62 (887) 077 4734,Prepaid,741.57,1.04,158,Sumatera Utara,2024-09-25
+57,Cawisono Hassanah,(054) 848-9216,Postpaid,818.6,44.73,463,Bali,2023-07-03
+58,Malika Widiastuti,(090) 445 6589,Prepaid,715.78,48.26,280,Jawa Barat,2022-12-10
+59,Dina Prakasa,+62 (0035) 126 9913,Prepaid,752.41,46.47,393,Bali,2023-01-19
+60,Yuliana Hassanah,083 740 7808,Postpaid,608.04,32.07,102,Jawa Timur,2022-09-07
+61,Imam Haryanto,(098) 188-3289,Prepaid,879.69,46.83,117,Jawa Timur,2024-01-03
+62,"Adiarja Pudjiastuti, M.Kom.",0828381482,Prepaid,868.27,46.88,37,Jawa Timur,2025-02-05
+63,"Dr. Kanda Yulianti, M.Farm",+62-0733-673-6567,Postpaid,936.04,32.54,191,Jabodetabek,2024-10-27
+64,Ida Setiawan,+62-692-183-3685,Postpaid,890.63,16.98,9,Bali,2023-04-25
+65,Asirwada Yolanda,+62-51-280-7789,Prepaid,165.99,35.68,353,Bali,2025-01-04
+66,"drg. Cakrabuana Halimah, S.I.Kom",+62-0967-559-5780,Postpaid,626.52,34.88,167,Bali,2024-01-12
+67,Paulin Jailani,+62 (58) 888-9823,Postpaid,829.84,41.51,26,Sumatera Utara,2022-06-26
+68,Jabal Pradipta,+62 (34) 620-5802,Postpaid,24.43,25.78,274,Jawa Barat,2023-06-30
+69,dr. Janet Uyainah,+62 (0194) 638-1012,Postpaid,60.91,22.27,54,Sulawesi Selatan,2022-06-04
+70,Yani Nuraini,(0322) 442-9818,Postpaid,40.53,39.98,37,Jawa Barat,2025-04-04
+71,"Slamet Wijayanti, S.IP",+62-058-673-5490,Prepaid,769.87,44.86,374,Jawa Barat,2022-10-06
+72,Uli Wijayanti,(000) 418-3797,Prepaid,286.47,3.31,312,Sulawesi Selatan,2025-02-27
+73,Dt. Wawan Rahimah,(087) 709 4476,Postpaid,211.56,34.29,261,Sumatera Utara,2022-12-22
+74,Vivi Firgantoro,(0591) 270-5502,Postpaid,109.66,29.57,146,Jawa Barat,2024-01-27
+75,Zalindra Saptono,+62 (075) 164 0040,Prepaid,424.93,27.7,285,Jawa Timur,2023-12-04
+76,Ade Fujiati,+62-0970-450-4438,Postpaid,210.73,36.38,491,Jawa Timur,2025-01-26
+77,Bahuwarna Yolanda,(039) 805 0812,Prepaid,46.58,14.04,357,Jabodetabek,2023-06-05
+78,"Gatra Puspasari, S.Pd",(0444) 685 1797,Prepaid,254.0,20.55,449,Sulawesi Selatan,2022-09-01
+79,Cayadi Nuraini,+62-23-880-2601,Postpaid,560.7,46.68,344,Sulawesi Selatan,2023-11-04
+80,Mila Gunawan,082 018 9811,Prepaid,826.42,47.25,220,Jawa Barat,2022-05-26
+81,Sutan Dimaz Uwais,(0249) 845-7725,Prepaid,247.33,19.78,487,Jabodetabek,2025-02-07
+82,Irma Firmansyah,(0295) 416 1527,Prepaid,44.1,24.14,136,Sumatera Utara,2024-06-09
+83,Bakianto Sirait,(0724) 164 0260,Postpaid,451.56,21.32,43,Sumatera Utara,2024-08-27
+84,"Drs. Bagas Simanjuntak, M.TI.",(0222) 461 8821,Prepaid,636.2,16.47,295,Jawa Barat,2023-08-14
+85,Warsa Melani,(020) 090-0155,Prepaid,167.23,14.4,276,Jawa Timur,2024-06-07
+86,"KH. Candrakanta Suartini, S.Sos",+62-0971-612-1275,Postpaid,718.35,16.07,385,Bali,2023-06-08
+87,Taufik Lestari,+62 (861) 571 4332,Postpaid,761.03,33.71,193,Bali,2024-04-14
+88,"Saadat Pangestu, S.Kom",+62 (085) 369 2644,Postpaid,599.48,30.09,245,Sumatera Utara,2022-06-17
+89,Siska Permadi,(0602) 610-2291,Postpaid,602.71,18.84,381,Jawa Barat,2024-07-27
+90,Marsito Halimah,+62 (0516) 966 7808,Postpaid,853.74,30.9,491,Jawa Timur,2025-03-08
+91,Dr. Diah Saptono,+62 (83) 429 7786,Postpaid,312.53,11.39,246,Sumatera Utara,2022-07-24
+92,Garan Hardiansyah,+62 (0685) 232-4733,Prepaid,49.31,22.37,385,Jabodetabek,2025-03-04
+93,T. Kamidin Utama,+62 (099) 480-4004,Prepaid,350.32,23.07,381,Jawa Barat,2023-06-11
+94,"Maida Pangestu, S.Gz",(0700) 337-9564,Prepaid,764.81,20.82,225,Jawa Barat,2024-05-21
+95,"Maria Uwais, S.Farm",+62-76-663-0147,Postpaid,179.23,18.73,124,Jawa Barat,2022-05-12
+96,"Warta Prayoga, S.Psi",+62 (56) 494-4486,Postpaid,496.25,22.25,124,Jawa Timur,2023-04-18
+97,Ilsa Haryanti,+62 (0727) 990 3897,Postpaid,242.53,0.75,216,Jabodetabek,2024-10-28
+98,"Hj. Febi Maryati, S.I.Kom",+62 (15) 611 0705,Postpaid,576.07,22.55,84,Sulawesi Selatan,2024-02-11
+99,Paris Uyainah,087 695 7915,Postpaid,900.01,22.31,97,Sulawesi Selatan,2023-03-21
+100,Warji Santoso,+62 (77) 261-5608,Prepaid,503.5,6.29,462,Jawa Barat,2024-09-09
